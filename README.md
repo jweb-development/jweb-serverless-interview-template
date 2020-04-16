@@ -13,6 +13,7 @@ The code will need to recompile every time you make a change, so keep that in mi
 
 ## Testing your code
 You'll need an api tool to aid you in your quest -- my preference is Postman, but feel free to use any you're comfortable with.
+- Your endpoint will be at `http://localhost:3000/challenge/get`. This takes a POST command, and is set up as a RESTful API -- so it expects to receive and will return JSON.
 
 ## Final Thoughts
 I will give you a rundown of this codebase before you start working on it, so don't be afraid if you don't understand what you're seeing at first glance. Ask questions, research stuff, and have fun!
